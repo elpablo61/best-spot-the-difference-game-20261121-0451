@@ -1,6 +1,6 @@
-[![make.fun](https://make.fun/badge/best-spot-the-difference-game-20261121-0451.svg)](https://make.fun/bounty/best-spot-the-difference-game-20261121-0451)
-[![make.fun](https://make.fun/badge/entries/best-spot-the-difference-game-20261121-0451.svg)](https://make.fun/bounty/best-spot-the-difference-game-20261121-0451)
-[![make.fun](https://make.fun/badge/reward/best-spot-the-difference-game-20261121-0451.svg)](https://make.fun/bounty/best-spot-the-difference-game-20261121-0451)
+[![make.fun](https://make.fun/badge/best-spot-the-difference-game-20261121-0451/elpablo61/best-spot-the-difference-game-20261121-0451/rank.svg)](https://make.fun/bounty/best-spot-the-difference-game-20261121-0451)
+[![make.fun](https://make.fun/badge/best-spot-the-difference-game-20261121-0451/elpablo61/best-spot-the-difference-game-20261121-0451/entries.svg)](https://make.fun/bounty/best-spot-the-difference-game-20261121-0451)
+[![make.fun](https://make.fun/badge/best-spot-the-difference-game-20261121-0451/elpablo61/best-spot-the-difference-game-20261121-0451/reward.svg)](https://make.fun/bounty/best-spot-the-difference-game-20261121-0451)
 
 # Twin Lanterns — Spot the Difference
 
